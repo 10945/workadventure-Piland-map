@@ -81,6 +81,17 @@
          "id":1,
          "name":"top",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/iuuu.de"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
